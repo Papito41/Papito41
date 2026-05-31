@@ -1,7 +1,7 @@
 # Hi there, I'm Papito 👋 
 
 ### 🚀 Backend Engineer | Go (Golang) Specialist
-I am a 20-year-old developer obsessed with building high-performance, concurrent systems. Currently mastering the art of Go to build the future of FinTech.
+I am a developer obsessed with building high-performance, concurrent systems. Currently mastering the art of Go to build the future of FinTech.
 
 ---
 
